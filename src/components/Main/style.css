@@ -1,0 +1,22 @@
+.mainContent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 2rem;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.mainContent p {
+    text-align: justify;
+    font-size: 1.250rem;
+    margin-top: 2.5rem;
+}
+
+.containerProducts {
+    display: flex;
+    gap: 6rem;
+}

@@ -1,0 +1,27 @@
+.containerProduct {
+    margin-top: 2rem;
+    border: 2px solid #E1F243;
+    padding: 1rem;
+    width: 230px;
+    border-radius: 1rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.titleProduct {
+    margin-top: 0.500rem;
+}
+
+.titleProduct, p {
+    text-align: center;
+}
+
+.imgProduct {
+    width: 220px;
+}
+
+strong {
+    color: #117811;
+}

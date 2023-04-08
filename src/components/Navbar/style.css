@@ -1,0 +1,36 @@
+.content {
+    width: 100%;
+    border-bottom: 1px solid #000;
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+    background-color: #86efac;
+    justify-content: space-between;
+}
+
+.logo {
+    width: 120px;
+}
+
+.menu h1 {
+    letter-spacing: 2px;
+    font-size: 1.750rem;
+    color: #000;
+}
+
+.list {
+    display: flex;
+    gap: 1rem;
+    margin-right: 1.5rem;
+}
+
+.list-item {
+    font-size: 1.2rem;
+    color: #000;
+}
+
+.list-item:hover {
+    border-bottom: 1px solid black;
+}
